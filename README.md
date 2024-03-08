@@ -4,10 +4,13 @@
 -🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️
 Programming Languages:
 C++
-![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
-Python
+![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
+Python
+![Python Icon](https://img.icons8.com/color/48/000000/python.png)
+
+
 
 
 About Me
@@ -19,8 +22,9 @@ Hey there! I'm a passionate software engineering student with amazing C++ progra
 -:🖥️🖥️🖥️🖥️🖥️🖥️🖥️
 Competitive Programming: 
 -🔫 Codeforces
-[![Codeforces Rating](https://cfrating.ihcr.top/?user=YourCodeforcesHandle)](https://codeforces.com/profile/Hehehc)
 
+
+![Codeforces Progress](https://cfviz.netlify.app/api/cf_progress?handle=Hehehc)
 
 
 🦁 LeetCode
