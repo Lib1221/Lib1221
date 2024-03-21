@@ -6,13 +6,6 @@ Programming Languages:
 C++
 ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 
-
-Python
-![Python Icon](https://img.icons8.com/color/48/000000/python.png)
-
-
-
-
 About Me
 Hey there! I'm a passionate software engineering student with amazing C++ programming skills. I love solving challenging problems and am actively involved in competitive programming.
 - 🌱 I’m currently learning ...software engineering
