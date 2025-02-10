@@ -60,7 +60,7 @@ I'm a passionate mobile developer specializing in Flutter. With a strong foundat
 Here are a few projects I've been working on:
 
 - **[Flutter Exam](https://github.com/Lib1221/flutter-exam):** A comprehensive Flutter application for examination management.
-- **[Flutter Food Delivery](https://github.com/Lib1221/flutter-food-delivery):** A food delivery application built using Flutter and Firebase.
+- **[Flutter Food Delivery](https://github.com/Lib1221/flutter-food_delivery):** A food delivery application built using Flutter and Firebase.
 
 ## 🎯 Goals for 2025
 
