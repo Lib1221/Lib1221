@@ -48,6 +48,9 @@ I'm a passionate mobile developer specializing in Flutter. With a strong foundat
 
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Lib1221&theme=radical&column=7)
 
+## 🔥 GitHub Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Lib1221&theme=radical)
 
 ## 📫 How to Reach Me
 
