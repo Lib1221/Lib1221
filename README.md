@@ -198,7 +198,9 @@
 
 ### 📲 Scan My Multi-Contact QR  
 <p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=BEGIN%3AVCARD%0AVERSION%3A3.0%0AN%3ALiben%20Adugna%0AFN%3ALiben%20Adugna%0AEMAIL%3Aadugnaliben65%40gmail.com%0AURL%3A%https%3A%2F%2Fgithub.com%2FLib1221%0AORG%3A%0ATEL%3A%2B0%0AEND%3AVCARD" alt="vCard QR Code" />
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=BEGIN%3AVCARD%0AVERSION%3A3.0%0AN%3ALiben%20Adugna%0AFN%3ALiben%20Adugna%0AEMAIL%3Aadugnaliben65%40gmail.com%0AURL%3Ahttps%3A%2F%2Fgithub.com%2FLib1221%0AORG%3A%0ATEL%3A%2B251906169046%0AEND%3AVCARD" 
+alt="vCard QR Code" />
+
 </p>
 <p align="center">
   <sub>📌 Scan to save all my contact info instantly</sub>
