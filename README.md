@@ -24,9 +24,7 @@ Strong in debugging, performance optimization, and designing reliable, maintaina
 
 Foundation in data structures and algorithms — **400+ competitive programming problems** solved on [LeetCode](https://leetcode.com/libenadugna) and [Codeforces](https://codeforces.com/profile/Hehehc).
 
-- **Location:** Adama, Ethiopia (GMT+3)
 - **Email:** libenadugna285@gmail.com
-- **Phone:** +251 906169046
 - **Website:** [www.liben.dev](https://www.liben.dev)
 
 ---
